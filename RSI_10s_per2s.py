@@ -7,6 +7,9 @@ Created on 2015年9月9日
 #每隔2秒， 回显相关股票报价数据  
 #
 @author: futu
+#
+Modified on 2016年8月25日
+@author: von8
 '''
 
 import socket
